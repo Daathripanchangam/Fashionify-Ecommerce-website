@@ -2,7 +2,7 @@
 -- Database: ShopEasy
 
 -- Create the database
-CREATE DATABASE ShopEasy;
+CREATE DATABASE Fashionify;
 GO
 
 USE ShopEasy;
